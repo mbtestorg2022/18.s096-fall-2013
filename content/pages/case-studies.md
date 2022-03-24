@@ -129,15 +129,15 @@ Portfolio Theory
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Case Study Plots: Simulation (PDF)]({{< baseurl >}}/resources/mit18_s096f13_smltn_twoast)
+[Case Study Plots: Simulation (PDF)]({{< baseurl >}}/resources/mit18_s096f13_smltn_twoast)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Case Study Plots: U.S. ETFS 2009-2013, Max Alloc 0.30 (PDF)]({{< baseurl >}}/resources/mit18_s096f13_etf_prida_30)
+[Case Study Plots: U.S. ETFS 2009-2013, Max Alloc 0.30 (PDF)]({{< baseurl >}}/resources/mit18_s096f13_etf_prida_30)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Case Study Plots: U.S. ETFS 2009-2013, Max Alloc 0.15 (PDF)]({{< baseurl >}}/resources/mit18_s096f13_etf_prida_15)
+[Case Study Plots: U.S. ETFS 2009-2013, Max Alloc 0.15 (PDF)]({{< baseurl >}}/resources/mit18_s096f13_etf_prida_15)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Case Study Plots: U.S. ETFs 2003-2006, Max Alloc 0.30 (PDF)]({{< baseurl >}}/resources/mit18_s096f13_etf_pridb_30)
+[Case Study Plots: U.S. ETFs 2003-2006, Max Alloc 0.30 (PDF)]({{< baseurl >}}/resources/mit18_s096f13_etf_pridb_30)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Case Study Plots: U.S. ETFs 2003-2006, Max Alloc 0.15 (PDF)]({{< baseurl >}}/resources/mit18_s096f13_etf_pridb_15)
+[Case Study Plots: U.S. ETFs 2003-2006, Max Alloc 0.15 (PDF)]({{< baseurl >}}/resources/mit18_s096f13_etf_pridb_15)
 
 
 {{< tdclose >}}
