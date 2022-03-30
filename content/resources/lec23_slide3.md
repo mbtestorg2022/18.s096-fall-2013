@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 83b926b8-2c94-6464-b5bc-35b89c5e9b60
 resourcetype: Image
 title: lec23_slide3.jpg
 uid: 24e51f38-87e3-8250-6371-6da2a4ba72d8
